@@ -1,0 +1,8 @@
+{
+  "name": "g1pphn--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "7.5.6"
+  }
+}
